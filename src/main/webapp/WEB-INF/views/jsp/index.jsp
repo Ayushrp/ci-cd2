@@ -41,6 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2> Welcome Lucky Megha and congrats for your 2nd project</h2>
+			<h3>Contact :- 6372704614</h3>
 			<h3>Vamos Amigos!</h3>
 		</div>	
 	</div>
