@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2> Welcome Lucky Megha and congrats for your 2nd project</h2>
-			<h3> I am Aryan and this is automatic build </h3>
+			<h3> I am Ayush(Aryan) and this is automatic build </h3>
 			<h3>Vamos Amigos!</h3>
 		</div>	
 	</div>
