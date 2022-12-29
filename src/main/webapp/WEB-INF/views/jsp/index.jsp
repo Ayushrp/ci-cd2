@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2> Welcome Lucky Megha and congrats for your 2nd project</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h3>Vamos Amigos!</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		
 	</footer>
 </div>
 
